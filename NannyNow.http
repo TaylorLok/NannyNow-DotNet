@@ -1,0 +1,6 @@
+@NannyNow_HostAddress = http://localhost:5277
+
+GET {{NannyNow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
